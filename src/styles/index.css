@@ -1,0 +1,9 @@
+body{
+  margin: 0;
+  font-family: sans-serif;
+}
+.page{
+  width: calc(100vw - 210px);
+  position: absolute;
+  left: 210px
+}

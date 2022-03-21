@@ -1,0 +1,32 @@
+.header h1{
+    text-align: center;
+    padding-top: 30px;
+}
+.main label{
+    margin: 80px 10px 0 3%;
+    font-size: 1.2em;
+}
+.main input{
+    margin-right: 10px;
+}
+
+.new{
+    display: block;
+    position: relative;
+    left: 60vw;
+    padding: 10px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 20px;
+    text-align: center;
+    text-decoration: none;
+    margin: 50px 0 20px;
+    background-color: rgb(99, 99, 190);
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    transition: all 0.5s;
+}
+.new:hover{
+    background-color: rgb(67, 67, 141);
+}
